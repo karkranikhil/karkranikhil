@@ -1,0 +1,233 @@
+<style>
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  gap: 0px 1px;
+  grid-template-areas: ". . ." ". . ." ". . .";
+}
+.list-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  gap: 0px 8px;
+  grid-template-areas: ". . " ". . " ". . ";
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.2);
+  color:#212529;
+  background:#fff;
+}
+
+
+button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px 5px;
+  color: #000;
+  background-color: #f3c74d;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+</style>
+<div class="grid-container" >
+	<div class="card">
+    <button>Basic Web Technology</button>
+    <ul>
+     <li>HTML5</li>
+     <li>CSS3</li>
+     <li>JavaScript</li>
+    </ul>
+</div>
+<div class="card">
+    <button>CSS Preprocessor</button>
+    <ul>
+     <li>SASS</li>
+      <li>LESS</li>
+    </ul>
+</div>
+<div class="card">
+    <button>CSS Frameworks</button>
+    <ul class="list-container">
+     <li>Bootstrap</li>
+      <li>Foundation</li>
+      <li>Bulma</li>
+      <li>Semantic UI</li>
+      <li>Tailwind css</li>
+      <li>Material UI</li>
+    </ul>
+</div>
+<div class="card">
+    <button>CSS-in-JS</button>
+    <ul>
+     <li>Styled Components</li>
+      <li>Emotion</li>
+    </ul>
+</div>
+<div class="card">
+    <button>JS lib and frameworks</button>
+    <ul class="list-container">
+     <li>Reactjs</li>
+      <li>Angularjs</li>
+      <li>Svelte</li>
+      <li>jQuery</li>
+      <li>Redux</li>
+      <li>LWC OSS</li>
+    </ul>
+</div>
+<div class="card">
+    <button>JS Utilities</button>
+    <ul class="list-container">
+     <li>lodash</li>
+      <li>axios</li>
+      <li>Moment</li>
+      <li>format.js</li>
+      <li>date-fns</li>
+      <li>etc.</li>
+    </ul>
+</div>
+<div class="card">
+    <button>Server side</button>
+    <ul>
+     <li>Nodejs</li>
+      <li>express</li>
+      <li>passport</li>
+      <li>firebase</li>
+    </ul>
+</div>
+<div class="card">
+    <button>CRM(Salesforce)</button>
+    <ul>
+     <li>Salesforce Admin</li>
+      <li>Lightning Aura Development</li>
+      <li>Lightning Web Component</li>
+      <li>Salesforce Einstein</li>
+    </ul>
+</div>
+<div class="card">
+    <button>Build & automation tools</button>
+    <ul class="list-container">
+     <li>Webpack</li>
+      <li>Parcel</li>
+      <li>Grunt</li>
+      <li>Gulp</li>
+      <li>Bower</li>
+      <li>Yeoman</li>
+    </ul>
+</div>
+<div class="card">
+    <button>Prototyping & Wireframing</button>
+    <ul>
+     <li>Invision</li>
+      <li>Zapline</li>
+    </ul>
+</div>
+<div class="card">
+    <button>Unit Testing libraries</button>
+    <ul class="list-container">
+       <li>Jest</li>
+       <li>jasmine</li>
+       <li>enzyme</li>
+       <li>sinon.js</li>
+       <li>karma</li>
+    </ul>
+</div>
+<div class="card">
+    <button>Transpiling </button>
+    <ul>
+       <li>Babel</li>
+    </ul>
+</div>
+<div class="card">
+    <button>Code formatter and linting</button>
+    <ul>
+       <li>prettier</li>
+       <li>eslint</li>
+    </ul>
+</div>
+<div class="card">
+    <button>Code Coverage tool</button>
+    <ul>
+       <li>Istanbul</li>
+    </ul>
+</div>
+
+<div class="card">
+    <button>API</button>
+    <ul>
+       <li>REST</li>
+       <li>GraphQl</li>
+    </ul>
+</div>
+<div class="card">
+    <button>Static Code analysis tool</button>
+    <ul>
+       <li>SonarQube</li>
+       <li>checkmarx</li>
+    </ul>
+</div>
+<div class="card">
+    <button>Data Visualization</button>
+    <ul class="list-container">
+       <li>Highcharts</li>
+       <li>d3</li>
+       <li>fusionCharts</li>
+        <li>chart.js</li>
+    </ul>
+</div>
+<div class="card">
+    <button>Deployment tool </button>
+    <ul>
+       <li>Netlify</li>
+       <li>CircleCi</li>
+    </ul>
+</div>
+<div class="card">
+    <button>Package Manager</button>
+    <ul>
+       <li>NPM</li>
+       <li>YARN</li>
+    </ul>
+</div>
+<div class="card">
+    <button>Project management tool</button>
+    <ul>
+       <li>JIRA</li>
+       <li>Confluence</li>
+    </ul>
+</div>
+<div class="card">
+    <button>Hoisting </button>
+    <ul>
+       <li>AWS</li>
+       <li>Heroku</li>
+       <li>Firebase</li>
+    </ul>
+</div><div class="card">
+    <button>Code Collaboration & Version Control</button>
+    <ul>
+       <li>Github</li>
+       <li>Bitbucket</li>
+    </ul>
+</div>
+<div class="card">
+    <button>Debugging and Troubleshooting tool</button>
+    <ul>
+       <li>chrome dev tool</li>
+       <li>firebug</li>
+       <li>react and redux devtool</li>
+       <li>lighthouse</li>
+    </ul>
+</div>
+<div class="card">
+    <button>Collaboration and Communication</button>
+    <ul>
+       <li>Slack</li>
+       <li>TeamViewer</li>
+       <li>Microsoft Team</li>
+       <li>Zoom</li>
+    </ul>
+</div>
