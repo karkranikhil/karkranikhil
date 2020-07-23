@@ -25,12 +25,9 @@
 
 
 # Skills
-<!-- |       |  |     |
-| :---        |    :----:   |          ---: |
-| ![Alt text](./images/skills/BASIC.jpg "Optional title")      | ![Alt text](./images/skills/CSS_PRE.jpg "Optional title")       | ![Alt text](./images/skills/CSS_FRAMEWORK.jpg "Optional title")   | -->
 
-![Alt text](./images/skills/SKILL1.jpg "Optional title")
-![Alt text](./images/skills/SKILL2.jpg "Optional title")
+![Alt text](./images/skills/SKILL1.JPG "Skills list")
+![Alt text](./images/skills/SKILL2.jpg "skills list")
 
 
 </div>
