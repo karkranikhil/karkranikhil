@@ -1,6 +1,6 @@
 
 
-<div style="background:#0e1123; padding:1rem;">
+
 
 # Hi there 👋, my name is Nikhil Karkra
 
@@ -35,14 +35,9 @@
 | :----: |    :----:   |
 | ![nikhil karkra's github stats](https://github-readme-stats.vercel.app/api?username=karkranikhil&show_icons=true&theme=radical)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karkranikhil)](https://github.com/anuraghazra/github-readme-stats)|
 
-# certifications
+# Certifications
 [<img src='https://drm--c.na114.content.force.com/servlet/servlet.ImageServer?id=0153k00000AH6hb&oid=00DF0000000gZsu&lastMod=1571903578000' alt='Medium'  width="200">](https://trailblazer.me/id/nkarkra) [<img src='https://drm--c.na114.content.force.com/servlet/servlet.ImageServer?id=0153k00000AH6ie&oid=00DF0000000gZsu&lastMod=1571904535000' alt='Medium' width="200">](https://trailblazer.me/id/nkarkra) [<img src='https://p.kindpng.com/picc/s/234-2347747_google-analytics-logo-google-analytics-logo-svg-hd.png' alt='Medium'  width="200" >](https://skillshop.exceedlms.com/student/award/51783690) 
 [<img src='https://drm--c.na114.content.force.com/servlet/servlet.ImageServer?id=0153k00000AuWix&oid=00DF0000000gZsu&lastMod=1591602699000' alt='Medium' height="130">](https://trailblazer.me/id/nkarkra)
-[<img src='https://static.scrum.org/web/badges/badge-psmi.svg' alt='Medium' height="200" width="200">](https://www.scrum.org/user/495421)
 [<img src='https://miro.medium.com/max/720/1*Job6fe3iwZLNeUN0wUjA_w.jpeg' alt='Medium'  width="200" height="200">](https://www.linkedin.com/in/https://www.linkedin.com/in/nikhilkarkra/)[<img src='https://static.scrum.org/web/badges/badge-psmi.svg' alt='Medium' height="200" width="200">](https://www.scrum.org/user/495421)
-[<img src='https://i0.wp.com/blogs.perficient.com/files/2015/04/Special_ProgHTML5_Blk_250x186.png?ssl=1' alt='Microsoft'  width="200" height="200">](https://www.linkedin.com/in/https://www.linkedin.com/in/nikhilkarkra/)[<img src='https://salesforcenext.com/wp-content/uploads/2020/04/copado.png' alt='Copado'  width="200" height="200">](https://www.linkedin.com/in/https://www.linkedin.com/in/nikhilkarkra/)
-
-
-
-
-</div>      
+[<img src='https://i0.wp.com/blogs.perficient.com/files/2015/04/Special_ProgHTML5_Blk_250x186.png?ssl=1' alt='Microsoft'  width="200" height="200">](https://www.linkedin.com/in/https://www.linkedin.com/in/nikhilkarkra/)[<img src='https://salesforcenext.com/wp-content/uploads/2020/04/copado.png' alt='Copado'  width="200" height="200">](https://www.linkedin.com/in/https://www.linkedin.com/in/nikhilkarkra/)[<img src=' https://images.youracclaim.com/size/680x680/images/c2137484-b8fa-4c38-b1ca-a2618a7360e9/Blockchain%2BEssentials.png' alt='Copado'  width="200" height="200">](https://www.youracclaim.com/badges/9eb5cb46-0b5d-46be-abfc-efd0f1dd1fbf/linked_in_profile)[<img src='https://pbs.twimg.com/media/EbmU3TGWkAAnLN5.jpg' alt='Copado'  width="200" height="200">](https://www.linkedin.com/in/https://www.linkedin.com/in/nikhilkarkra/)
+ 
