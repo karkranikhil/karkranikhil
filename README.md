@@ -26,8 +26,8 @@
 
 # Skills
 
-![Alt text](./images/skills/SKILL1.JPG "Skills list")
-![Alt text](./images/skills/SKILL2.jpg "skills list")
+![Alt text](https://raw.githubusercontent.com/karkranikhil/karkranikhil/master/images/skills/SKILL1.JPG "Skills list")
+![Alt text](https://raw.githubusercontent.com/karkranikhil/karkranikhil/master/images/skills/SKILL2.jpg "skills list")
 
 
 </div>
