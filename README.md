@@ -59,11 +59,11 @@ button {
 
 
 # Skills
-<div class="grid-container">
+<div class="grid-container" >
 	<div class="card">
     <button>Basic Web Technology</button>
     <ul>
-     <li>HTML5</li>
+     <li style="font-size:24px;">HTML5</li>
      <li>CSS3</li>
      <li>JavaScript</li>
     </ul>
