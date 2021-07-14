@@ -2,7 +2,7 @@
 
 
 
-# Hi there 👋, my name is Nikhil Karkra
+# Hi there 👋, I am Nikhil Karkra
 
 
 
