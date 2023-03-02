@@ -44,9 +44,17 @@
 
 #Projects
 1) <a href="https://somiphotography.com/" target="_blank">https://somiphotography.com/</a>
-2) <a href="https://www.loonum.com.au/" target="_blank">https://www.loonum.com.au/</a>
-3) <a href="https://git-board.karkranikhil.vercel.app/" target="_blank">https://git-board.karkranikhil.vercel.app/</a>
-4) <a href="https://lwc-openai-demo.vercel.app/" target="_blank">https://lwc-openai-demo.vercel.app/</a>
-5) <a href="https://salesforceicons.com/" target="_blank">https://salesforceicons.com/</a>
-6) <a href="https://www.salesforcetroop.com/" target="_blank">https://www.salesforcetroop.com/</a>
+2) <a href="https://www.khantennis.us/" target="_blank">https://www.khantennis.us/</a>
+3) <a href="https://salesforceicons.com/" target="_blank">https://salesforceicons.com/</a>
+4) <a href="https://www.salesforcetroop.com/" target="_blank">https://www.salesforcetroop.com/</a>
+5) <a href="https://www.loonum.com.au/" target="_blank">https://www.loonum.com.au/</a>
+6) <a href="https://git-board.karkranikhil.vercel.app/" target="_blank">https://git-board.karkranikhil.vercel.app/</a>
+7) <a href="https://lwc-openai-demo.vercel.app/" target="_blank">https://lwc-openai-demo.vercel.app/</a>
+8) <a href="https://nextjs-ecommerce-teal.vercel.app/" target="_blank">https://nextjs-ecommerce-teal.vercel.app/ </a>
+9) <a href="https://trailblazereventapp.vercel.app/" target="_blank">https://trailblazereventapp.vercel.app/</a>
+10) <a href="https://salesforceplus-clone.vercel.app/" target="_blank">https://salesforceplus-clone.vercel.app/</a>
+
+
+
+
  
