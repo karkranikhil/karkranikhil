@@ -40,4 +40,13 @@
 [<img src='https://drm--c.na114.content.force.com/servlet/servlet.ImageServer?id=0153k00000AuWix&oid=00DF0000000gZsu&lastMod=1591602699000' alt='Medium' height="130">](https://trailblazer.me/id/nkarkra)
 [<img src='https://miro.medium.com/max/720/1*Job6fe3iwZLNeUN0wUjA_w.jpeg' alt='Medium'  width="200" height="200">](https://www.linkedin.com/in/https://www.linkedin.com/in/nikhilkarkra/)[<img src='https://static.scrum.org/web/badges/badge-psmi.svg' alt='Medium' height="200" width="200">](https://www.scrum.org/user/495421)
 [<img src='https://i0.wp.com/blogs.perficient.com/files/2015/04/Special_ProgHTML5_Blk_250x186.png?ssl=1' alt='Microsoft'  width="200" height="200">](https://www.linkedin.com/in/https://www.linkedin.com/in/nikhilkarkra/)[<img src='https://salesforcenext.com/wp-content/uploads/2020/04/copado.png' alt='Copado'  width="200" height="200">](https://www.linkedin.com/in/https://www.linkedin.com/in/nikhilkarkra/)[<img src='https://images.youracclaim.com/size/680x680/images/c2137484-b8fa-4c38-b1ca-a2618a7360e9/Blockchain%2BEssentials.png' alt='Copado'  width="200" height="200">](https://www.youracclaim.com/badges/9eb5cb46-0b5d-46be-abfc-efd0f1dd1fbf/linked_in_profile)[<img src='https://pbs.twimg.com/media/EbmU3TGWkAAnLN5.jpg' alt='Copado'  width="200" height="200">](https://www.linkedin.com/in/https://www.linkedin.com/in/nikhilkarkra/)
+
+
+#Projects
+1) <a href="https://somiphotography.com/" target="_blank">https://somiphotography.com/</a>
+2) <a href="https://www.loonum.com.au/" target="_blank">https://www.loonum.com.au/</a>
+3) <a href="https://git-board.karkranikhil.vercel.app/" target="_blank">https://git-board.karkranikhil.vercel.app/</a>
+4) <a href="https://lwc-openai-demo.vercel.app/" target="_blank">https://lwc-openai-demo.vercel.app/</a>
+5) <a href="https://salesforceicons.com/" target="_blank">https://salesforceicons.com/</a>
+6) <a href="https://www.salesforcetroop.com/" target="_blank">https://www.salesforcetroop.com/</a>
  
